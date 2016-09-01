@@ -11,6 +11,11 @@
 *.iws
 out/
 
+#gradle file
+gradle/
+gradlew
+gradlew.bat
+
 # Android auto gen files
 bin/
 gen/
